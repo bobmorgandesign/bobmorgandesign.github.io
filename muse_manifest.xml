@@ -1,0 +1,358 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bobmorgandesign.ca" resolutions="1x" timestamp="1528928710238">
+  <folder name="css">
+    <file name="site_global.css" crc="3829608694"/>
+    <file name="master_a-master.css" crc="4136024219" ref="photography:art:index:art-direction:website-design:about:graphic-design:illustration"/>
+    <file name="photography.css" crc="3777064626" ref="photography"/>
+    <file name="iefonts_photography.css" crc="3788017918" ref="photography"/>
+    <file name="art.css" crc="4128136429" ref="art"/>
+    <file name="iefonts_art.css" crc="121847584" ref="art"/>
+    <file name="index.css" crc="115502583" ref="index"/>
+    <file name="iefonts_index.css" crc="345827678" ref="index"/>
+    <file name="art-direction.css" crc="340160666" ref="art-direction"/>
+    <file name="iefonts_art-direction.css" crc="3854214826" ref="art-direction"/>
+    <file name="website-design.css" crc="3881364599" ref="website-design"/>
+    <file name="iefonts_website-design.css" crc="4119431878" ref="website-design"/>
+    <file name="about.css" crc="4048964525" ref="about"/>
+    <file name="iefonts_about.css" crc="400927746" ref="about"/>
+    <file name="graphic-design.css" crc="20637477" ref="graphic-design"/>
+    <file name="iefonts_graphic-design.css" crc="347904201" ref="graphic-design"/>
+    <file name="illustration.css" crc="4264821996" ref="illustration"/>
+    <file name="iefonts_illustration.css" crc="3798600546" ref="illustration"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="webpro.js" crc="3986320349" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="require.js" crc="4159430777" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4017614690" ref="index"/>
+    <file name="screen shot 2015-02-12 at 50543 pm-crop-u5024.jpg" crc="4181692434" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="screen shot 2015-02-12 at 50448 pm-crop-u4997.jpg" crc="203924417" ref="index"/>
+    <file name="screen shot 2015-02-12 at 50415 pm-crop-u4988.jpg" crc="4244202380" ref="index"/>
+    <file name="screen shot 2015-02-12 at 50527 pm-crop-u5015.jpg" crc="4053383217" ref="index"/>
+    <file name="screen shot 2015-02-12 at 50356 pm.jpg" crc="497498229" seo="true" ref="index"/>
+    <file name="screen shot 2015-02-12 at 50511 pm.jpg" crc="4088579157" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="print home-crop-u327.jpg" crc="116963447" ref="index"/>
+    <file name="web home 2-crop-u372.jpg" crc="4034267511" ref="index"/>
+    <file name="bob and canoes otk-crop-u4559.jpg" crc="3958844865" ref="index"/>
+    <file name="art direction home-crop-u386.jpg" crc="379380490" ref="index"/>
+    <file name="illustration home-crop-u400.jpg" crc="216404314" ref="index"/>
+    <file name="photography home-crop-u414.jpg" crc="3842808533" ref="index"/>
+    <file name="square texture10.jpg" crc="3966547316" ref="index:about:graphic-design:website-design:art-direction:illustration:photography:art"/>
+    <file name="img_1347-crop-u3764.jpg" crc="3866705865" ref="about"/>
+    <file name="img_0169.jpg" crc="209730430" seo="true" ref="about"/>
+    <file name="img_2638-crop-u3843.jpg" crc="4030459893" ref="about"/>
+    <file name="st peters2-crop-u3787.jpg" crc="3894534091" ref="about"/>
+    <file name="centerbeam cover-crop-u842.jpg" crc="320256373" ref="graphic-design"/>
+    <file name="centerbeam inside-crop-u814.png" crc="4260485263" ref="graphic-design"/>
+    <file name="artifacts-crop-u824.jpg" crc="185350490" ref="graphic-design"/>
+    <file name="mav cover-crop-u844.jpg" crc="254930938" ref="graphic-design"/>
+    <file name="mav inside-crop-u802.png" crc="161238563" ref="graphic-design"/>
+    <file name="ketchums cb-crop-u830.jpg" crc="4077541185" ref="graphic-design"/>
+    <file name="ketchum rl-crop-u812.jpg" crc="4032644845" ref="graphic-design"/>
+    <file name="city movie pkg-crop-u804.jpg" crc="4175866753" ref="graphic-design"/>
+    <file name="ll package-crop-u840.jpg" crc="4149091492" ref="graphic-design"/>
+    <file name="snow board-crop-u846.jpg" crc="441517261" ref="graphic-design"/>
+    <file name="police media backdrop-crop-u4413.png" crc="23635921" ref="graphic-design"/>
+    <file name="forest research-crop-u834.jpg" crc="183830680" ref="graphic-design"/>
+    <file name="jdi folder-crop-u808.jpg" crc="3977331982" ref="graphic-design"/>
+    <file name="inp brochure-crop-u2689.jpg" crc="3880508762" ref="graphic-design"/>
+    <file name="inp signs - map-crop-u816.jpg" crc="4064116199" ref="graphic-design"/>
+    <file name="lepreau-crop-u820.jpg" crc="281763075" ref="graphic-design"/>
+    <file name="triage-crop-u836.jpg" crc="4029038990" ref="graphic-design"/>
+    <file name="barb gordon cd1-crop-u826.png" crc="245834285" ref="graphic-design"/>
+    <file name="or cover-crop-u822.jpg" crc="120909560" ref="graphic-design"/>
+    <file name="ordnance inside-crop-u800.jpg" crc="500809172" ref="graphic-design"/>
+    <file name="buckland tableau ad december 2011-crop-u818.jpg" crc="54485182" ref="graphic-design"/>
+    <file name="ring web-crop-u838.jpg" crc="327560241" ref="graphic-design"/>
+    <file name="rns 1-crop-u810.jpg" crc="3797399060" ref="graphic-design"/>
+    <file name="rns 2-crop-u832.jpg" crc="3855171917" ref="graphic-design"/>
+    <file name="pine signs-crop-u806.jpg" crc="3913139223" ref="graphic-design"/>
+    <file name="logos 2-crop-u4229.jpg" crc="328694427" ref="graphic-design"/>
+    <file name="logos 1-crop-u4244.jpg" crc="56601236" ref="graphic-design"/>
+    <file name="heritage signs-crop-u828.jpg" crc="237799072" ref="graphic-design"/>
+    <file name="centerbeam cover.jpg" crc="285734435" seo="true" ref="graphic-design"/>
+    <file name="centerbeam inside.png" crc="3885493807" seo="true" ref="graphic-design"/>
+    <file name="artifacts.png" crc="3910673717" seo="true" ref="graphic-design"/>
+    <file name="mav cover.jpg" crc="522736945" seo="true" ref="graphic-design"/>
+    <file name="mav inside 2.png" crc="235357057" seo="true" ref="graphic-design"/>
+    <file name="ketchums cb.png" crc="3913592662" seo="true" ref="graphic-design"/>
+    <file name="ketchum rl.png" crc="329674545" seo="true" ref="graphic-design"/>
+    <file name="city movie pkg.png" crc="3850208404" seo="true" ref="graphic-design"/>
+    <file name="ll package.png" crc="389883072" seo="true" ref="graphic-design"/>
+    <file name="snow board.jpg" crc="4030998773" seo="true" ref="graphic-design"/>
+    <file name="police media backdrop.png" crc="476211917" seo="true" ref="graphic-design"/>
+    <file name="forest research.png" crc="4146702525" seo="true" ref="graphic-design"/>
+    <file name="jdi folder.png" crc="377581443" seo="true" ref="graphic-design"/>
+    <file name="inp brochure.jpg" crc="3836090978" seo="true" ref="graphic-design"/>
+    <file name="inp signs - map.jpg" crc="155178732" seo="true" ref="graphic-design"/>
+    <file name="lepreau.png" crc="4061315238" seo="true" ref="graphic-design"/>
+    <file name="triage.png" crc="348121198" seo="true" ref="graphic-design"/>
+    <file name="barb gordon cd1.png" crc="4072272479" seo="true" ref="graphic-design"/>
+    <file name="or cover.jpg" crc="3767055310" seo="true" ref="graphic-design"/>
+    <file name="ordnance inside.png" crc="3878524122" seo="true" ref="graphic-design"/>
+    <file name="buckland tableau ad december 2011.jpg" crc="177197323" seo="true" ref="graphic-design"/>
+    <file name="ring web.png" crc="4019203348" seo="true" ref="graphic-design"/>
+    <file name="rns 1.jpg" crc="276570914" seo="true" ref="graphic-design"/>
+    <file name="rns 2.png" crc="342797460" seo="true" ref="graphic-design"/>
+    <file name="pine signs.png" crc="25580918" seo="true" ref="graphic-design"/>
+    <file name="logos 2.jpg" crc="404851902" seo="true" ref="graphic-design"/>
+    <file name="logos 1.jpg" crc="15602154" seo="true" ref="graphic-design"/>
+    <file name="heritage signs.jpg" crc="243960902" seo="true" ref="graphic-design"/>
+    <file name="ketchum maryann pedway-crop-u3083.jpg" crc="38175528" ref="graphic-design"/>
+    <file name="centerbeam-crop-u3110.jpg" crc="4066165153" ref="graphic-design"/>
+    <file name="city dvd-crop-u3038.jpg" crc="432988402" ref="graphic-design"/>
+    <file name="mav cover tall-crop-u3148.png" crc="4151483555" ref="graphic-design"/>
+    <file name="das illustration.jpg" crc="3955073450" seo="true" ref="website-design"/>
+    <file name="screen shot 2014-10-06 at 62632 pm-crop-u1199.jpg" crc="304118634" ref="website-design"/>
+    <file name="david curren site image-crop-u1201.jpg" crc="3845348539" ref="website-design"/>
+    <file name="logos on black-crop-u1195.jpg" crc="329767978" ref="website-design"/>
+    <file name="web home 2-crop-u3562.jpg" crc="467439019" ref="website-design"/>
+    <file name="das home-crop-u3720.jpg" crc="2037091" ref="website-design"/>
+    <file name="curren foot 2.jpg" crc="269026223" seo="true" ref="website-design"/>
+    <file name="kg2-crop-u3663.jpg" crc="369024899" ref="website-design"/>
+    <file name="curren library-crop-u5189.jpg" crc="433673839" ref="website-design"/>
+    <file name="launch supp 1-crop-u3215.jpg" crc="18584539" ref="art-direction"/>
+    <file name="loonie graphic.jpg" crc="4226094993" seo="true" ref="art-direction"/>
+    <file name="section filler ads-1-crop-u3318.jpg" crc="4237722967" ref="art-direction"/>
+    <file name="launch supp 1-crop-u1273.jpg" crc="3939602339" ref="art-direction"/>
+    <file name="launch supp 5-crop-u1263.jpg" crc="140881339" ref="art-direction"/>
+    <file name="tj award-crop-u1261.jpg" crc="49480000" ref="art-direction"/>
+    <file name="escapde cover-crop-u1271.jpg" crc="3842904332" ref="art-direction"/>
+    <file name="escapade centre web-crop-u1279.jpg" crc="6885099" ref="art-direction"/>
+    <file name="tj section ads-crop-u1283.jpg" crc="3947524954" ref="art-direction"/>
+    <file name="news graphics-crop-u1265.png" crc="4048116253" ref="art-direction"/>
+    <file name="politics-crop-u2590.png" crc="4172329828" ref="art-direction"/>
+    <file name="sports covers-crop-u2605.png" crc="4285937472" ref="art-direction"/>
+    <file name="progress ad-crop-u1267.jpg" crc="3783137305" ref="art-direction"/>
+    <file name="real estate cover web-crop-u1275.jpg" crc="3924484834" ref="art-direction"/>
+    <file name="chuck teed3-crop-u1269.jpg" crc="100778307" ref="art-direction"/>
+    <file name="colville reader-crop-u1277.png" crc="3999492487" ref="art-direction"/>
+    <file name="reader sos-crop-u2625.jpg" crc="245302350" ref="art-direction"/>
+    <file name="cowie spec ad-crop-u1281.jpg" crc="284097770" ref="art-direction"/>
+    <file name="marios lunch ad-crop-u2652.jpg" crc="207921123" ref="art-direction"/>
+    <file name="launch supp 1.jpg" crc="3985763301" seo="true" ref="art-direction"/>
+    <file name="tj launch inside.png" crc="4238195560" seo="true" ref="art-direction"/>
+    <file name="tj award.png" crc="320141495" seo="true" ref="art-direction"/>
+    <file name="escapde cover.jpg" crc="516434813" seo="true" ref="art-direction:photography"/>
+    <file name="escapade centre web.jpg" crc="42618666" seo="true" ref="art-direction:photography"/>
+    <file name="tj section ads.jpg" crc="52779324" seo="true" ref="art-direction"/>
+    <file name="news graphics.png" crc="4265305833" seo="true" ref="art-direction"/>
+    <file name="politics.png" crc="351601782" seo="true" ref="art-direction"/>
+    <file name="sports covers.png" crc="249763852" seo="true" ref="art-direction"/>
+    <file name="progress ad.jpg" crc="3844064337" seo="true" ref="art-direction"/>
+    <file name="real estate cover.jpg" crc="3855076838" seo="true" ref="art-direction:photography"/>
+    <file name="chuck teed3.jpg" crc="4208300015" seo="true" ref="art-direction"/>
+    <file name="colville reader.png" crc="411475869" seo="true" ref="art-direction"/>
+    <file name="reader sos.jpg" crc="4052553605" seo="true" ref="art-direction"/>
+    <file name="cowie spec ad.jpg" crc="243293375" seo="true" ref="art-direction"/>
+    <file name="marios lunch ad.jpg" crc="261338374" seo="true" ref="art-direction"/>
+    <file name="bentley phase 3-crop-u1421.jpg" crc="4089640571" ref="illustration"/>
+    <file name="bentley 2 interior-crop-u1425.png" crc="3862242890" ref="illustration"/>
+    <file name="caa member ad-crop-u5117.jpg" crc="477380350" ref="illustration"/>
+    <file name="caa gift membership-crop-u1417.jpg" crc="3923594836" ref="illustration"/>
+    <file name="jdi clean posters-crop-u1433.png" crc="82609274" ref="illustration"/>
+    <file name="steve eastwood-crop-u1423.jpg" crc="4035545088" ref="illustration"/>
+    <file name="moonlight madness-crop-u5131.jpg" crc="4036126524" ref="illustration"/>
+    <file name="das vegas-crop-u1453.jpg" crc="245586647" ref="illustration"/>
+    <file name="downeys hot deals illust-crop-u1451.jpg" crc="3814996882" ref="illustration"/>
+    <file name="kent line-crop-u1445.png" crc="3924038727" ref="illustration"/>
+    <file name="four steps 2-crop-u1427.png" crc="500535491" ref="illustration"/>
+    <file name="earth, sky and moon-crop-u1419.jpg" crc="4228671014" ref="illustration"/>
+    <file name="kids menu-crop-u1439.jpg" crc="152931094" ref="illustration"/>
+    <file name="caa website ad-crop-u1429.jpg" crc="519648824" ref="illustration"/>
+    <file name="monarchs poster-05-crop-u1437.jpg" crc="3971329020" ref="illustration"/>
+    <file name="zaat cd web-crop-u1443.jpg" crc="482110771" ref="illustration"/>
+    <file name="choppers-crop-u1431.jpg" crc="215781001" ref="illustration"/>
+    <file name="ben - jen-crop-u1447.jpg" crc="4288944346" ref="illustration"/>
+    <file name="baron - david-crop-u1415.png" crc="443130642" ref="illustration"/>
+    <file name="eastern passage cover-crop-u3939.jpg" crc="317822746" ref="illustration"/>
+    <file name="bentley phase 3.png" crc="4091880559" seo="true" ref="illustration"/>
+    <file name="bentley 2 interior692x587.png" crc="3981767698" seo="true" ref="illustration"/>
+    <file name="caa member ad.jpg" crc="116322602" seo="true" ref="illustration"/>
+    <file name="caa gift membership.jpg" crc="389098442" seo="true" ref="illustration"/>
+    <file name="jdi clean posters.png" crc="4203804243" seo="true" ref="illustration"/>
+    <file name="steve eastwood.jpg" crc="163549211" seo="true" ref="illustration:photography"/>
+    <file name="moonlight madness.jpg" crc="3987981526" seo="true" ref="illustration"/>
+    <file name="das vegas.jpg" crc="4195156379" seo="true" ref="illustration"/>
+    <file name="downeys hot deals illust.jpg" crc="94246046" seo="true" ref="illustration"/>
+    <file name="kent line.png" crc="3901034858" seo="true" ref="illustration"/>
+    <file name="four steps 2.png" crc="160875770" seo="true" ref="illustration"/>
+    <file name="man, woman, child.jpg" crc="3958747428" seo="true" ref="illustration"/>
+    <file name="img_1578.jpg" crc="298746017" seo="true" ref="illustration"/>
+    <file name="caa website ad.jpg" crc="4019972585" seo="true" ref="illustration"/>
+    <file name="monarchs poster-05.jpg" crc="3993622485" seo="true" ref="illustration"/>
+    <file name="zaat cd web.jpg" crc="290602127" seo="true" ref="illustration"/>
+    <file name="choppers.jpg" crc="118722227" seo="true" ref="illustration"/>
+    <file name="ben - jen.jpg" crc="3852529856" seo="true" ref="illustration"/>
+    <file name="baron - david.png" crc="3857896758" seo="true" ref="illustration"/>
+    <file name="eastern passage cover.jpg" crc="412696812" seo="true" ref="illustration"/>
+    <file name="caa member ad-crop-u5080.jpg" crc="3929148984" ref="illustration"/>
+    <file name="dino tall-crop-u2890.jpg" crc="4131708456" ref="illustration"/>
+    <file name="bentley 2 interior-crop-u3888.png" crc="3759402316" ref="illustration"/>
+    <file name="steve eastwood-crop-u2853.jpg" crc="323393324" ref="illustration"/>
+    <file name="global news for web.png" crc="207994783" seo="true" ref="photography"/>
+    <file name="mav photos.png" crc="4235970781" seo="true" ref="photography"/>
+    <file name="buckland shots.png" crc="95441321" seo="true" ref="photography"/>
+    <file name="launch supp cover photo.png" crc="396262912" seo="true" ref="photography"/>
+    <file name="curren photos1.png" crc="4204174485" seo="true" ref="photography"/>
+    <file name="curren photos2.png" crc="4209526940" seo="true" ref="photography"/>
+    <file name="city shots.png" crc="40971981" seo="true" ref="photography"/>
+    <file name="design art photos.png" crc="83702763" seo="true" ref="photography"/>
+    <file name="baron cover.jpg" crc="1353671" seo="true" ref="photography"/>
+    <file name="tim morgan poster.jpg" crc="4078405451" seo="true" ref="photography"/>
+    <file name="zaat band 2.jpg" crc="137030706" seo="true" ref="photography"/>
+    <file name="joanne portrait.jpg" crc="136628083" seo="true" ref="photography"/>
+    <file name="global news for web-crop-u1671.png" crc="455491695" ref="photography"/>
+    <file name="steve eastwood-crop-u1665.jpg" crc="317793660" ref="photography"/>
+    <file name="escapde cover-crop-u1663.jpg" crc="3838024099" ref="photography"/>
+    <file name="escapade centre web-crop-u1669.jpg" crc="3981806199" ref="photography"/>
+    <file name="mav photos-crop-u1675.png" crc="43370701" ref="photography"/>
+    <file name="buckland shots-crop-u1683.png" crc="4010190537" ref="photography"/>
+    <file name="launch supp cover photo-crop-u1673.png" crc="4202955968" ref="photography"/>
+    <file name="curren photos1-crop-u5217.png" crc="432603825" ref="photography"/>
+    <file name="curren photos2-crop-u5226.png" crc="3801693646" ref="photography"/>
+    <file name="city shots-crop-u1661.png" crc="4060437452" ref="photography"/>
+    <file name="design art photos-crop-u5252.png" crc="4173525626" ref="photography"/>
+    <file name="real estate cover-crop-u1677.jpg" crc="4016038740" ref="photography"/>
+    <file name="baron cover-crop-u1679.jpg" crc="4118911328" ref="photography"/>
+    <file name="tim morgan poster-crop-u4432.jpg" crc="513681140" ref="photography"/>
+    <file name="zaat band 2-crop-u1681.jpg" crc="3775467871" ref="photography"/>
+    <file name="joanne portrait-crop-u6576.jpg" crc="415151501" ref="photography"/>
+    <file name="leslie-crop-u1978.jpg" crc="4187257869" ref="photography"/>
+    <file name="empire window-crop-u1986.jpg" crc="3808447199" ref="photography"/>
+    <file name="img_0025-crop-u1988.jpg" crc="392144569" ref="photography"/>
+    <file name="img_4372-crop-u1942.jpg" crc="289476581" ref="photography"/>
+    <file name="img_6642-crop-u1930.jpg" crc="527771008" ref="photography"/>
+    <file name="apple picking-crop-u1954.jpg" crc="3953578923" ref="photography"/>
+    <file name="img_5216-crop-u1990.jpg" crc="4164250793" ref="photography"/>
+    <file name="sag1-crop-u1968.jpg" crc="409857804" ref="photography"/>
+    <file name="img_1347-crop-u1960.jpg" crc="497525123" ref="photography"/>
+    <file name="img_5505-crop-u1982.jpg" crc="20210632" ref="photography"/>
+    <file name="img_1372-crop-u1980.jpg" crc="337439462" ref="photography"/>
+    <file name="img_163481x70.jpg" crc="3925342253" seo="true" ref="photography"/>
+    <file name="img_2229-crop-u1972.jpg" crc="4127367801" ref="photography"/>
+    <file name="img_2471-crop-u1998.jpg" crc="4105975492" ref="photography"/>
+    <file name="img_4297-crop-u1938.jpg" crc="240336207" ref="photography"/>
+    <file name="img_2638-crop-u1962.jpg" crc="333489455" ref="photography"/>
+    <file name="img_2960-crop-u1952.jpg" crc="15039903" ref="photography"/>
+    <file name="twin boats-crop-u1974.jpg" crc="185607957" ref="photography"/>
+    <file name="img_3354-crop-u1964.jpg" crc="440376493" ref="photography"/>
+    <file name="img_3735-crop-u1918.jpg" crc="99215267" ref="photography"/>
+    <file name="img_3876-crop-u1928.jpg" crc="4118067230" ref="photography"/>
+    <file name="img_4403-crop-u1992.jpg" crc="4134237919" ref="photography"/>
+    <file name="morgans-crop-u1984.jpg" crc="3855327431" ref="photography"/>
+    <file name="img_4629-crop-u1940.jpg" crc="375269534" ref="photography"/>
+    <file name="img_5228-crop-u1944.jpg" crc="173070082" ref="photography"/>
+    <file name="img_5383-crop-u1920.jpg" crc="4190467630" ref="photography"/>
+    <file name="tim-crop-u1956.jpg" crc="4034195200" ref="photography"/>
+    <file name="img_6296-crop-u1934.jpg" crc="452792180" ref="photography"/>
+    <file name="img_6319-crop-u1950.jpg" crc="4131043672" ref="photography"/>
+    <file name="img_6418-crop-u1994.jpg" crc="13355641" ref="photography"/>
+    <file name="img_9783-crop-u1946.jpg" crc="3852659189" ref="photography"/>
+    <file name="img_2468-crop-u1996.jpg" crc="398383939" ref="photography"/>
+    <file name="img_6721-crop-u1926.jpg" crc="338167835" ref="photography"/>
+    <file name="st peters2-crop-u1932.jpg" crc="3879072749" ref="photography"/>
+    <file name="img_7301-crop-u1936.jpg" crc="280647407" ref="photography"/>
+    <file name="img_9063-crop-u1948.jpg" crc="248018089" ref="photography"/>
+    <file name="img_9489-crop-u1922.jpg" crc="4103035843" ref="photography"/>
+    <file name="img_9634-crop-u1924.jpg" crc="4171067740" ref="photography"/>
+    <file name="philip-crop-u1976.jpg" crc="418410483" ref="photography"/>
+    <file name="sailors web-crop-u1958.jpg" crc="400503882" ref="photography"/>
+    <file name="leslie.jpg" crc="519734387" seo="true" ref="photography"/>
+    <file name="empire window.jpg" crc="233007001" seo="true" ref="photography"/>
+    <file name="img_0025.jpg" crc="146317344" seo="true" ref="photography"/>
+    <file name="img_4372.jpg" crc="3924155722" seo="true" ref="photography"/>
+    <file name="img_6642.jpg" crc="3914049544" seo="true" ref="photography"/>
+    <file name="apple picking.jpg" crc="4262303632" seo="true" ref="photography"/>
+    <file name="img_5216.jpg" crc="3937884318" seo="true" ref="photography"/>
+    <file name="sag1.jpg" crc="3805383042" seo="true" ref="photography"/>
+    <file name="img_1347.jpg" crc="4086513656" seo="true" ref="photography"/>
+    <file name="img_5505.jpg" crc="4241786459" seo="true" ref="photography"/>
+    <file name="img_1372.jpg" crc="3904235203" seo="true" ref="photography"/>
+    <file name="img_1634.jpg" crc="3969343919" seo="true" ref="photography"/>
+    <file name="img_2229.jpg" crc="238939977" seo="true" ref="photography"/>
+    <file name="img_2471.jpg" crc="240146979" seo="true" ref="photography"/>
+    <file name="img_4297.jpg" crc="4087289328" seo="true" ref="photography"/>
+    <file name="img_2638.jpg" crc="4045119793" seo="true" ref="photography"/>
+    <file name="img_2960.jpg" crc="4238501284" seo="true" ref="photography"/>
+    <file name="twin boats.jpg" crc="366834146" seo="true" ref="photography"/>
+    <file name="img_3354.jpg" crc="227356038" seo="true" ref="photography"/>
+    <file name="img_3735.jpg" crc="470284177" seo="true" ref="photography"/>
+    <file name="img_3876.jpg" crc="107247688" seo="true" ref="photography"/>
+    <file name="img_4403.jpg" crc="3832652544" seo="true" ref="photography"/>
+    <file name="morgans.jpg" crc="222582884" seo="true" ref="photography"/>
+    <file name="img_4629.jpg" crc="4068034097" seo="true" ref="photography"/>
+    <file name="img_5228.jpg" crc="153819068" seo="true" ref="photography"/>
+    <file name="img_5383.jpg" crc="4021837003" seo="true" ref="photography"/>
+    <file name="tim.jpg" crc="515564023" seo="true" ref="photography"/>
+    <file name="img_6296.jpg" crc="4266120700" seo="true" ref="photography"/>
+    <file name="img_6319.jpg" crc="3873598648" seo="true" ref="photography"/>
+    <file name="img_6418.jpg" crc="227848981" seo="true" ref="photography"/>
+    <file name="img_9783.jpg" crc="341817994" seo="true" ref="photography"/>
+    <file name="img_2468.jpg" crc="3895015164" seo="true" ref="photography"/>
+    <file name="img_6721.jpg" crc="241373648" seo="true" ref="photography"/>
+    <file name="st peters2.jpg" crc="3852580228" seo="true" ref="photography"/>
+    <file name="img_7301.jpg" crc="58732134" seo="true" ref="photography"/>
+    <file name="img_9063.jpg" crc="298604829" seo="true" ref="photography"/>
+    <file name="img_9489.jpg" crc="396048385" seo="true" ref="photography"/>
+    <file name="img_9634.jpg" crc="148307150" seo="true" ref="photography"/>
+    <file name="philip.jpg" crc="4111284942" seo="true" ref="photography"/>
+    <file name="sailors web.jpg" crc="333348669" seo="true" ref="photography"/>
+    <file name="canoes otk-crop-u4511.jpg" crc="4022395251" ref="art"/>
+    <file name="canoes otk detail-crop-u4502.jpg" crc="38721965" ref="art"/>
+    <file name="bird in window web71x84.jpg" crc="17253706" seo="true" ref="art"/>
+    <file name="bird in window close-crop-u2314.jpg" crc="4112530548" ref="art"/>
+    <file name="bird close up-crop-u2340.jpg" crc="4031705693" ref="art"/>
+    <file name="split portrait web-crop-u2322.jpg" crc="77352190" ref="art"/>
+    <file name="img_3376-crop-u2318.jpg" crc="101276878" ref="art"/>
+    <file name="interior with bass web-crop-u2316.jpg" crc="344881817" ref="art"/>
+    <file name="boy with flashlight-crop-u2344.jpg" crc="4142772397" ref="art"/>
+    <file name="hemerocolis-crop-u2330.jpg" crc="4241465949" ref="art"/>
+    <file name="img_2136-crop-u2336.jpg" crc="146445025" ref="art"/>
+    <file name="jeff watch-crop-u2328.jpg" crc="4074849111" ref="art"/>
+    <file name="litho 2-crop-u2320.jpg" crc="3879342658" ref="art"/>
+    <file name="eric portrait web-crop-u2332.jpg" crc="316906809" ref="art"/>
+    <file name="watercolour web-crop-u2338.jpg" crc="457934106" ref="art"/>
+    <file name="bob morgan sculpture web-crop-u2326.jpg" crc="3870064529" ref="art"/>
+    <file name="canoes otk.jpg" crc="462590383" seo="true" ref="art"/>
+    <file name="canoes otk detail.jpg" crc="469036903" seo="true" ref="art"/>
+    <file name="bird in window web.jpg" crc="402199005" seo="true" ref="art"/>
+    <file name="bird in window close.jpg" crc="137960170" seo="true" ref="art"/>
+    <file name="bird close up.jpg" crc="3942257942" seo="true" ref="art"/>
+    <file name="split portrait web.jpg" crc="3991426323" seo="true" ref="art"/>
+    <file name="img_3376.jpg" crc="4149829380" seo="true" ref="art"/>
+    <file name="interior with bass web.jpg" crc="4170031676" seo="true" ref="art"/>
+    <file name="boy with flashlight.jpg" crc="532298872" seo="true" ref="art"/>
+    <file name="hemerocolis.jpg" crc="4252498996" seo="true" ref="art"/>
+    <file name="img_2136.jpg" crc="128085101" seo="true" ref="art"/>
+    <file name="jeff watch.jpg" crc="352830452" seo="true" ref="art"/>
+    <file name="litho 2.jpg" crc="4219507582" seo="true" ref="art"/>
+    <file name="eric portrait web.jpg" crc="3925624661" seo="true" ref="art"/>
+    <file name="watercolour web.jpg" crc="4241251812" seo="true" ref="art"/>
+    <file name="bob morgan sculpture web.jpg" crc="222758500" seo="true" ref="art"/>
+    <file name="canoes otk detail-crop-u4536.jpg" crc="185211865" ref="art"/>
+    <file name="bird in window web-crop-u3484.jpg" crc="100933850" ref="art"/>
+    <file name="boy with flashlight-crop-u3528.jpg" crc="337468567" ref="art"/>
+    <file name="meeting place wide-crop-u3513.jpg" crc="242615200" ref="art"/>
+  </folder>
+  <file name="index.html" crc="139864506" seo="true" mt="1519927821721" redirect="true"/>
+  <file name="about.html" crc="445448269" seo="true" mt="1527697772020" redirect="true"/>
+  <file name="graphic-design.html" crc="3871063840" seo="true" mt="1519856582971" redirect="true"/>
+  <file name="website-design.html" crc="4231288174" seo="true" mt="1519845784873" redirect="true"/>
+  <file name="art-direction.html" crc="168628254" seo="true" mt="1437078659275" redirect="true"/>
+  <file name="illustration.html" crc="3836986799" seo="true" mt="1519922668289" redirect="true"/>
+  <file name="photography.html" crc="53660208" seo="true" mt="1519927553173" redirect="true"/>
+  <file name="art.html" crc="3844769475" seo="true" mt="1519922105560" redirect="true"/>
+</manifest>
